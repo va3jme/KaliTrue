@@ -1,6 +1,6 @@
 # KaliTrue
-Display calibration app
+Jamie Cashin's Display Calibration Assistant app
 
-Placeholder for now - main page is at https://KaliTrue.app
+See https://KaliTrue.app
 
 Work in progress... license subject to change
